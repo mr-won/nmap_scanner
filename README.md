@@ -1,2 +1,3 @@
 # nmap_scanner
-namap-scanner
+nmap - scanner scanner detected.
+server detect test routine syntax access scan <- namp scanner 
